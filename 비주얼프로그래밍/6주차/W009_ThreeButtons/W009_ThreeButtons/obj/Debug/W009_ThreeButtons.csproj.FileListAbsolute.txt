@@ -1,0 +1,14 @@
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W009_ThreeButtons\W009_ThreeButtons\bin\Debug\W009_ThreeButtons.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W009_ThreeButtons\W009_ThreeButtons\bin\Debug\W009_ThreeButtons.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W009_ThreeButtons\W009_ThreeButtons\bin\Debug\W009_ThreeButtons.pdb
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W009_ThreeButtons\W009_ThreeButtons\obj\Debug\MainWindow.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W009_ThreeButtons\W009_ThreeButtons\obj\Debug\App.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W009_ThreeButtons\W009_ThreeButtons\obj\Debug\W009_ThreeButtons_MarkupCompile.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W009_ThreeButtons\W009_ThreeButtons\obj\Debug\W009_ThreeButtons_MarkupCompile.lref
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W009_ThreeButtons\W009_ThreeButtons\obj\Debug\MainWindow.baml
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W009_ThreeButtons\W009_ThreeButtons\obj\Debug\W009_ThreeButtons.g.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W009_ThreeButtons\W009_ThreeButtons\obj\Debug\W009_ThreeButtons.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W009_ThreeButtons\W009_ThreeButtons\obj\Debug\W009_ThreeButtons.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W009_ThreeButtons\W009_ThreeButtons\obj\Debug\W009_ThreeButtons.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W009_ThreeButtons\W009_ThreeButtons\obj\Debug\W009_ThreeButtons.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W009_ThreeButtons\W009_ThreeButtons\obj\Debug\W009_ThreeButtons.pdb

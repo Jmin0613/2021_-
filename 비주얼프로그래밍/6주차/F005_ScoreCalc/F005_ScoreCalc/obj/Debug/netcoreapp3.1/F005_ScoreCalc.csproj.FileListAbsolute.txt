@@ -1,0 +1,15 @@
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\F005_ScoreCalc\F005_ScoreCalc\bin\Debug\netcoreapp3.1\F005_ScoreCalc.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\F005_ScoreCalc\F005_ScoreCalc\bin\Debug\netcoreapp3.1\F005_ScoreCalc.deps.json
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\F005_ScoreCalc\F005_ScoreCalc\bin\Debug\netcoreapp3.1\F005_ScoreCalc.runtimeconfig.json
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\F005_ScoreCalc\F005_ScoreCalc\bin\Debug\netcoreapp3.1\F005_ScoreCalc.runtimeconfig.dev.json
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\F005_ScoreCalc\F005_ScoreCalc\bin\Debug\netcoreapp3.1\F005_ScoreCalc.dll
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\F005_ScoreCalc\F005_ScoreCalc\bin\Debug\netcoreapp3.1\F005_ScoreCalc.pdb
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\F005_ScoreCalc\F005_ScoreCalc\obj\Debug\netcoreapp3.1\F005_ScoreCalc.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\F005_ScoreCalc\F005_ScoreCalc\obj\Debug\netcoreapp3.1\F005_ScoreCalc.Form1.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\F005_ScoreCalc\F005_ScoreCalc\obj\Debug\netcoreapp3.1\F005_ScoreCalc.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\F005_ScoreCalc\F005_ScoreCalc\obj\Debug\netcoreapp3.1\F005_ScoreCalc.AssemblyInfoInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\F005_ScoreCalc\F005_ScoreCalc\obj\Debug\netcoreapp3.1\F005_ScoreCalc.AssemblyInfo.cs
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\F005_ScoreCalc\F005_ScoreCalc\obj\Debug\netcoreapp3.1\F005_ScoreCalc.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\F005_ScoreCalc\F005_ScoreCalc\obj\Debug\netcoreapp3.1\F005_ScoreCalc.dll
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\F005_ScoreCalc\F005_ScoreCalc\obj\Debug\netcoreapp3.1\F005_ScoreCalc.pdb
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\F005_ScoreCalc\F005_ScoreCalc\obj\Debug\netcoreapp3.1\F005_ScoreCalc.genruntimeconfig.cache
