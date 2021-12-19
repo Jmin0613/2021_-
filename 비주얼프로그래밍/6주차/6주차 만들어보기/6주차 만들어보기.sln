@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6주차 만들어보기", "6주차 만들어보기\6주차 만들어보기.csproj", "{DA852FAD-291D-41E7-BA79-BE30A718F0BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA852FAD-291D-41E7-BA79-BE30A718F0BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA852FAD-291D-41E7-BA79-BE30A718F0BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA852FAD-291D-41E7-BA79-BE30A718F0BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA852FAD-291D-41E7-BA79-BE30A718F0BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {038F0F7B-E1AA-42D4-A97B-8BA370635A17}
+	EndGlobalSection
+EndGlobal
