@@ -1,0 +1,22 @@
+package 실습문제다시풀기;
+
+import java.util.Scanner;
+
+public class 단원3_6 {
+	public static void main(String[] args) {
+		Scanner scanner=new Scanner(System.in);
+		int unit[] = {50000,10000,1000,500,100,50,10,1};
+	 
+		System.out.print("금액을 입력하시오 >> ");
+		int money = scanner.nextInt(); //돈 입력
+		
+		for(int i=0;i<unit.length;i++) {
+			if(money/unit[i]>0) {
+				System.out.println(unit[i]+"원 짜리 : "+money/unit[i]+"개");
+				money%=unit[i]; //거스름돈 저장
+			}
+		}
+		scanner.close();
+	}
+
+}
