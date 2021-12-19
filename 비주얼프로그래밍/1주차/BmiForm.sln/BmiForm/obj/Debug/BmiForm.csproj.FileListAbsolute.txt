@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\비주얼프로\BmiForm.sln\BmiForm\bin\Debug\BmiForm.exe.config
+C:\Users\user\Desktop\비주얼프로\BmiForm.sln\BmiForm\bin\Debug\BmiForm.exe
+C:\Users\user\Desktop\비주얼프로\BmiForm.sln\BmiForm\bin\Debug\BmiForm.pdb
+C:\Users\user\Desktop\비주얼프로\BmiForm.sln\BmiForm\obj\Debug\BmiForm.csprojAssemblyReference.cache
+C:\Users\user\Desktop\비주얼프로\BmiForm.sln\BmiForm\obj\Debug\BmiForm.Form1.resources
+C:\Users\user\Desktop\비주얼프로\BmiForm.sln\BmiForm\obj\Debug\BmiForm.Properties.Resources.resources
+C:\Users\user\Desktop\비주얼프로\BmiForm.sln\BmiForm\obj\Debug\BmiForm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\비주얼프로\BmiForm.sln\BmiForm\obj\Debug\BmiForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\비주얼프로\BmiForm.sln\BmiForm\obj\Debug\BmiForm.exe
+C:\Users\user\Desktop\비주얼프로\BmiForm.sln\BmiForm\obj\Debug\BmiForm.pdb
