@@ -1,0 +1,6 @@
+hello world 
+화일처리 파이썬 프로그램 예제
+문자열이 잘 기록되어 있나요 ? 
+test string 1 
+test string 2 
+test string 3 
