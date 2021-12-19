@@ -1,0 +1,12 @@
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F015_ArduinoSensorMonitoringInCS\F015_ArduinoSensorMonitoringInCS\bin\Debug\F015_ArduinoSensorMonitoringInCS.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F015_ArduinoSensorMonitoringInCS\F015_ArduinoSensorMonitoringInCS\bin\Debug\F015_ArduinoSensorMonitoringInCS.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F015_ArduinoSensorMonitoringInCS\F015_ArduinoSensorMonitoringInCS\bin\Debug\F015_ArduinoSensorMonitoringInCS.pdb
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F015_ArduinoSensorMonitoringInCS\F015_ArduinoSensorMonitoringInCS\obj\Debug\F015_ArduinoSensorMonitoringInCS.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F015_ArduinoSensorMonitoringInCS\F015_ArduinoSensorMonitoringInCS\obj\Debug\F015_ArduinoSensorMonitoringInCS.Form1.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F015_ArduinoSensorMonitoringInCS\F015_ArduinoSensorMonitoringInCS\obj\Debug\F015_ArduinoSensorMonitoringInCS.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F015_ArduinoSensorMonitoringInCS\F015_ArduinoSensorMonitoringInCS\obj\Debug\F015_ArduinoSensorMonitoringInCS.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F015_ArduinoSensorMonitoringInCS\F015_ArduinoSensorMonitoringInCS\obj\Debug\F015_ArduinoSensorMonitoringInCS.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F015_ArduinoSensorMonitoringInCS\F015_ArduinoSensorMonitoringInCS\obj\Debug\F015_ArduinoSensorMonitoringInCS.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F015_ArduinoSensorMonitoringInCS\F015_ArduinoSensorMonitoringInCS\obj\Debug\F015_ArduinoSensorMonitoringInCS.pdb
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F015_ArduinoSensorMonitoringInCS\F015_ArduinoSensorMonitoringInCS\bin\Debug\SensorData.mdf
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F015_ArduinoSensorMonitoringInCS\F015_ArduinoSensorMonitoringInCS\bin\Debug\SensorData_log.ldf

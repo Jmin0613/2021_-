@@ -1,0 +1,15 @@
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W002_HelloWorld2\W002_HelloWorld2\bin\Debug\W002_HelloWorld2.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W002_HelloWorld2\W002_HelloWorld2\bin\Debug\W002_HelloWorld2.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W002_HelloWorld2\W002_HelloWorld2\bin\Debug\W002_HelloWorld2.pdb
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W002_HelloWorld2\W002_HelloWorld2\obj\Debug\W002_HelloWorld2.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W002_HelloWorld2\W002_HelloWorld2\obj\Debug\MainWindow.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W002_HelloWorld2\W002_HelloWorld2\obj\Debug\App.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W002_HelloWorld2\W002_HelloWorld2\obj\Debug\W002_HelloWorld2_MarkupCompile.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W002_HelloWorld2\W002_HelloWorld2\obj\Debug\W002_HelloWorld2_MarkupCompile.lref
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W002_HelloWorld2\W002_HelloWorld2\obj\Debug\MainWindow.baml
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W002_HelloWorld2\W002_HelloWorld2\obj\Debug\W002_HelloWorld2.g.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W002_HelloWorld2\W002_HelloWorld2\obj\Debug\W002_HelloWorld2.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W002_HelloWorld2\W002_HelloWorld2\obj\Debug\W002_HelloWorld2.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W002_HelloWorld2\W002_HelloWorld2\obj\Debug\W002_HelloWorld2.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W002_HelloWorld2\W002_HelloWorld2\obj\Debug\W002_HelloWorld2.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W002_HelloWorld2\W002_HelloWorld2\obj\Debug\W002_HelloWorld2.pdb

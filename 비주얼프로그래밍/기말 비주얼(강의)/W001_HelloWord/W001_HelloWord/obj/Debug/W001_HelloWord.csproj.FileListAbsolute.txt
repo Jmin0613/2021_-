@@ -1,0 +1,15 @@
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W001_HelloWord\W001_HelloWord\bin\Debug\W001_HelloWord.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W001_HelloWord\W001_HelloWord\bin\Debug\W001_HelloWord.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W001_HelloWord\W001_HelloWord\bin\Debug\W001_HelloWord.pdb
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W001_HelloWord\W001_HelloWord\obj\Debug\W001_HelloWord.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W001_HelloWord\W001_HelloWord\obj\Debug\MainWindow.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W001_HelloWord\W001_HelloWord\obj\Debug\App.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W001_HelloWord\W001_HelloWord\obj\Debug\W001_HelloWord_MarkupCompile.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W001_HelloWord\W001_HelloWord\obj\Debug\W001_HelloWord_MarkupCompile.lref
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W001_HelloWord\W001_HelloWord\obj\Debug\MainWindow.baml
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W001_HelloWord\W001_HelloWord\obj\Debug\W001_HelloWord.g.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W001_HelloWord\W001_HelloWord\obj\Debug\W001_HelloWord.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W001_HelloWord\W001_HelloWord\obj\Debug\W001_HelloWord.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W001_HelloWord\W001_HelloWord\obj\Debug\W001_HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W001_HelloWord\W001_HelloWord\obj\Debug\W001_HelloWord.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W001_HelloWord\W001_HelloWord\obj\Debug\W001_HelloWord.pdb
