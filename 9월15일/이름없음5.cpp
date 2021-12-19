@@ -1,5 +1,6 @@
 #include <stdio.h>
 #define MAX_SIZE 1024 
+#include <time.h>
 
 void printfArray(int arr[], int n, char* str) { //보여주기 
 	printf("%s = ", str);
@@ -20,7 +21,7 @@ static void merge(int list[], int left, int mid, int right) {
 
 	//분할 정렬된 list의 병합
 	for (i = left, j = mid + 1; i <= mid && j <= right;)
-		sorted[k++] = (list[i] <= list[j]) ? list[i++] : list[j++];
+		sorted[k++] = (list[i] <= list[j] ? list[i++] : list[j++]);
 
 	//한쪽에 남아있는 레코드 일괄 복사
 	if (i > mid)
@@ -47,11 +48,14 @@ void merge_sort(int list[], int left, int right) {
 int main() {
 	int list[9] = { 5,3,8,4,9,1,6,2,7 };
 	printfArray(list, 9, "Original "); //정렬 전 
+	
+	clock_t start = clock(); // 시작 시간 저장
 	merge_sort(list, 0,8);
-	printfArray(list, 9, "Selection "); //정렬 후  
+	clock_t end = clock(); // 코드가 끝난 시간 저장
+
+	printfArray(list, 9, "Selection "); //정렬 후 
+	printf("측정된 시간 : %lf\n", (double)(end - start)/CLOCKS_PER_SEC); 
 
 	return 0;
 }
-[출처] 병합 정렬 (merge sort)|작성자 집밥
-
 
