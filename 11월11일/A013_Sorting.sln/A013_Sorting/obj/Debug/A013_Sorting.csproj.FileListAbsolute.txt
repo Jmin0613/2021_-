@@ -1,0 +1,7 @@
+C:\Users\jumin\OneDrive\바탕 화면\11월11일\A013_Sorting.sln\A013_Sorting\bin\Debug\A013_Sorting.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\11월11일\A013_Sorting.sln\A013_Sorting\bin\Debug\A013_Sorting.exe
+C:\Users\jumin\OneDrive\바탕 화면\11월11일\A013_Sorting.sln\A013_Sorting\bin\Debug\A013_Sorting.pdb
+C:\Users\jumin\OneDrive\바탕 화면\11월11일\A013_Sorting.sln\A013_Sorting\obj\Debug\A013_Sorting.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\11월11일\A013_Sorting.sln\A013_Sorting\obj\Debug\A013_Sorting.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\11월11일\A013_Sorting.sln\A013_Sorting\obj\Debug\A013_Sorting.exe
+C:\Users\jumin\OneDrive\바탕 화면\11월11일\A013_Sorting.sln\A013_Sorting\obj\Debug\A013_Sorting.pdb
