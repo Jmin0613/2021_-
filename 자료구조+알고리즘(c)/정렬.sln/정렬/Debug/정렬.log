@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Users\jumin\OneDrive\바탕 화면\자료구조+알고리즘(c)\정렬.sln\정렬\소스.cpp(37,34): error C2664: 'void printfArray(int [],int,char *)': 인수 3을(를) 'const char [10]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\jumin\OneDrive\바탕 화면\자료구조+알고리즘(c)\정렬.sln\정렬\소스.cpp(37,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\jumin\OneDrive\바탕 화면\자료구조+알고리즘(c)\정렬.sln\정렬\소스.cpp(7,6): message : 'printfArray' 선언을 참조하십시오.
+C:\Users\jumin\OneDrive\바탕 화면\자료구조+알고리즘(c)\정렬.sln\정렬\소스.cpp(39,35): error C2664: 'void printfArray(int [],int,char *)': 인수 3을(를) 'const char [11]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\jumin\OneDrive\바탕 화면\자료구조+알고리즘(c)\정렬.sln\정렬\소스.cpp(39,23): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\jumin\OneDrive\바탕 화면\자료구조+알고리즘(c)\정렬.sln\정렬\소스.cpp(7,6): message : 'printfArray' 선언을 참조하십시오.
