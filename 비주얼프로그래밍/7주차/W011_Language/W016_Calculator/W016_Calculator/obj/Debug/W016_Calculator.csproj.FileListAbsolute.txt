@@ -1,0 +1,15 @@
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W016_Calculator\W016_Calculator\bin\Debug\W016_Calculator.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W016_Calculator\W016_Calculator\bin\Debug\W016_Calculator.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W016_Calculator\W016_Calculator\bin\Debug\W016_Calculator.pdb
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W016_Calculator\W016_Calculator\obj\Debug\W016_Calculator.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W016_Calculator\W016_Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W016_Calculator\W016_Calculator\obj\Debug\App.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W016_Calculator\W016_Calculator\obj\Debug\W016_Calculator_MarkupCompile.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W016_Calculator\W016_Calculator\obj\Debug\W016_Calculator_MarkupCompile.lref
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W016_Calculator\W016_Calculator\obj\Debug\MainWindow.baml
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W016_Calculator\W016_Calculator\obj\Debug\W016_Calculator.g.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W016_Calculator\W016_Calculator\obj\Debug\W016_Calculator.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W016_Calculator\W016_Calculator\obj\Debug\W016_Calculator.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W016_Calculator\W016_Calculator\obj\Debug\W016_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W016_Calculator\W016_Calculator\obj\Debug\W016_Calculator.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W016_Calculator\W016_Calculator\obj\Debug\W016_Calculator.pdb

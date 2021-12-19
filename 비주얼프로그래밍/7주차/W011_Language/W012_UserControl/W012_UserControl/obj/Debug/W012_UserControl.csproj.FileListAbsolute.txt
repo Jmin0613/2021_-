@@ -1,0 +1,15 @@
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W012_UserControl\W012_UserControl\bin\Debug\W012_UserControl.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W012_UserControl\W012_UserControl\bin\Debug\W012_UserControl.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W012_UserControl\W012_UserControl\bin\Debug\W012_UserControl.pdb
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W012_UserControl\W012_UserControl\obj\Debug\W012_UserControl.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W012_UserControl\W012_UserControl\obj\Debug\MainWindow.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W012_UserControl\W012_UserControl\obj\Debug\App.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W012_UserControl\W012_UserControl\obj\Debug\W012_UserControl_MarkupCompile.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W012_UserControl\W012_UserControl\obj\Debug\W012_UserControl_MarkupCompile.lref
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W012_UserControl\W012_UserControl\obj\Debug\MainWindow.baml
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W012_UserControl\W012_UserControl\obj\Debug\W012_UserControl.g.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W012_UserControl\W012_UserControl\obj\Debug\W012_UserControl.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W012_UserControl\W012_UserControl\obj\Debug\W012_UserControl.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W012_UserControl\W012_UserControl\obj\Debug\W012_UserControl.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W012_UserControl\W012_UserControl\obj\Debug\W012_UserControl.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\7주차\W012_UserControl\W012_UserControl\obj\Debug\W012_UserControl.pdb
