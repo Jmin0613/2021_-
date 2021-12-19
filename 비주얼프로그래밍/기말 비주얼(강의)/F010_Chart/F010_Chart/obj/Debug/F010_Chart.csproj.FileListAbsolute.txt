@@ -1,0 +1,10 @@
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F010_Chart\F010_Chart\bin\Debug\F010_Chart.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F010_Chart\F010_Chart\bin\Debug\F010_Chart.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F010_Chart\F010_Chart\bin\Debug\F010_Chart.pdb
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F010_Chart\F010_Chart\obj\Debug\F010_Chart.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F010_Chart\F010_Chart\obj\Debug\F010_Chart.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F010_Chart\F010_Chart\obj\Debug\F010_Chart.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F010_Chart\F010_Chart\obj\Debug\F010_Chart.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F010_Chart\F010_Chart\obj\Debug\F010_Chart.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F010_Chart\F010_Chart\obj\Debug\F010_Chart.pdb
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F010_Chart\F010_Chart\obj\Debug\F010_Chart.Form1.resources

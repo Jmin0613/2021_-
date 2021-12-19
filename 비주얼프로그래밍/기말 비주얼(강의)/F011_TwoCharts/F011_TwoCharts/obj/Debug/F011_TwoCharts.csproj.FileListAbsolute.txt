@@ -1,0 +1,9 @@
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F011_TwoCharts\F011_TwoCharts\bin\Debug\F011_TwoCharts.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F011_TwoCharts\F011_TwoCharts\bin\Debug\F011_TwoCharts.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F011_TwoCharts\F011_TwoCharts\bin\Debug\F011_TwoCharts.pdb
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F011_TwoCharts\F011_TwoCharts\obj\Debug\F011_TwoCharts.Form1.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F011_TwoCharts\F011_TwoCharts\obj\Debug\F011_TwoCharts.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F011_TwoCharts\F011_TwoCharts\obj\Debug\F011_TwoCharts.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F011_TwoCharts\F011_TwoCharts\obj\Debug\F011_TwoCharts.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F011_TwoCharts\F011_TwoCharts\obj\Debug\F011_TwoCharts.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F011_TwoCharts\F011_TwoCharts\obj\Debug\F011_TwoCharts.pdb

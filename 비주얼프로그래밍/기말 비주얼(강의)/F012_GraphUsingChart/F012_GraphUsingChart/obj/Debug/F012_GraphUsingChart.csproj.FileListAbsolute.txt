@@ -1,0 +1,9 @@
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F012_GraphUsingChart\F012_GraphUsingChart\bin\Debug\F012_GraphUsingChart.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F012_GraphUsingChart\F012_GraphUsingChart\bin\Debug\F012_GraphUsingChart.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F012_GraphUsingChart\F012_GraphUsingChart\bin\Debug\F012_GraphUsingChart.pdb
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F012_GraphUsingChart\F012_GraphUsingChart\obj\Debug\F012_GraphUsingChart.Form1.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F012_GraphUsingChart\F012_GraphUsingChart\obj\Debug\F012_GraphUsingChart.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F012_GraphUsingChart\F012_GraphUsingChart\obj\Debug\F012_GraphUsingChart.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F012_GraphUsingChart\F012_GraphUsingChart\obj\Debug\F012_GraphUsingChart.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F012_GraphUsingChart\F012_GraphUsingChart\obj\Debug\F012_GraphUsingChart.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\F012_GraphUsingChart\F012_GraphUsingChart\obj\Debug\F012_GraphUsingChart.pdb
