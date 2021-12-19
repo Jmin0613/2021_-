@@ -1,0 +1,7 @@
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\C025_List\C025_List\bin\Debug\C025_List.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\C025_List\C025_List\bin\Debug\C025_List.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\C025_List\C025_List\bin\Debug\C025_List.pdb
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\C025_List\C025_List\obj\Debug\C025_List.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\C025_List\C025_List\obj\Debug\C025_List.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\C025_List\C025_List\obj\Debug\C025_List.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\C025_List\C025_List\obj\Debug\C025_List.pdb
