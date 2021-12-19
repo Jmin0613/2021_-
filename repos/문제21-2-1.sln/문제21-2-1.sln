@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "문제21-2-1", "문제21-2-1\문제21-2-1.vcxproj", "{17DE17D9-2B6C-415B-8CEF-5AEFFA15E624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17DE17D9-2B6C-415B-8CEF-5AEFFA15E624}.Debug|x64.ActiveCfg = Debug|x64
+		{17DE17D9-2B6C-415B-8CEF-5AEFFA15E624}.Debug|x64.Build.0 = Debug|x64
+		{17DE17D9-2B6C-415B-8CEF-5AEFFA15E624}.Debug|x86.ActiveCfg = Debug|Win32
+		{17DE17D9-2B6C-415B-8CEF-5AEFFA15E624}.Debug|x86.Build.0 = Debug|Win32
+		{17DE17D9-2B6C-415B-8CEF-5AEFFA15E624}.Release|x64.ActiveCfg = Release|x64
+		{17DE17D9-2B6C-415B-8CEF-5AEFFA15E624}.Release|x64.Build.0 = Release|x64
+		{17DE17D9-2B6C-415B-8CEF-5AEFFA15E624}.Release|x86.ActiveCfg = Release|Win32
+		{17DE17D9-2B6C-415B-8CEF-5AEFFA15E624}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC72EE4A-3FFB-497B-96E1-37E7FD84F73A}
+	EndGlobalSection
+EndGlobal
