@@ -1,0 +1,9 @@
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A127_WinFormHello.sln\A127_WinFormHello\bin\Debug\A127_WinFormHello.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A127_WinFormHello.sln\A127_WinFormHello\bin\Debug\A127_WinFormHello.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A127_WinFormHello.sln\A127_WinFormHello\bin\Debug\A127_WinFormHello.pdb
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A127_WinFormHello.sln\A127_WinFormHello\obj\Debug\A127_WinFormHello.Form1.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A127_WinFormHello.sln\A127_WinFormHello\obj\Debug\A127_WinFormHello.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A127_WinFormHello.sln\A127_WinFormHello\obj\Debug\A127_WinFormHello.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A127_WinFormHello.sln\A127_WinFormHello\obj\Debug\A127_WinFormHello.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A127_WinFormHello.sln\A127_WinFormHello\obj\Debug\A127_WinFormHello.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A127_WinFormHello.sln\A127_WinFormHello\obj\Debug\A127_WinFormHello.pdb
