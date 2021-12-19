@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\비주얼프로\4주차\4주차과제_사칙계산기.sln\4주차과제_사칙계산기\bin\Debug\4주차과제_사칙계산기.exe.config
+C:\Users\user\Desktop\비주얼프로\4주차\4주차과제_사칙계산기.sln\4주차과제_사칙계산기\bin\Debug\4주차과제_사칙계산기.exe
+C:\Users\user\Desktop\비주얼프로\4주차\4주차과제_사칙계산기.sln\4주차과제_사칙계산기\bin\Debug\4주차과제_사칙계산기.pdb
+C:\Users\user\Desktop\비주얼프로\4주차\4주차과제_사칙계산기.sln\4주차과제_사칙계산기\obj\Debug\4주차과제_사칙계산기.csprojAssemblyReference.cache
+C:\Users\user\Desktop\비주얼프로\4주차\4주차과제_사칙계산기.sln\4주차과제_사칙계산기\obj\Debug\_4주차과제_사칙계산기.Form1.resources
+C:\Users\user\Desktop\비주얼프로\4주차\4주차과제_사칙계산기.sln\4주차과제_사칙계산기\obj\Debug\_4주차과제_사칙계산기.Properties.Resources.resources
+C:\Users\user\Desktop\비주얼프로\4주차\4주차과제_사칙계산기.sln\4주차과제_사칙계산기\obj\Debug\4주차과제_사칙계산기.csproj.GenerateResource.cache
+C:\Users\user\Desktop\비주얼프로\4주차\4주차과제_사칙계산기.sln\4주차과제_사칙계산기\obj\Debug\4주차과제_사칙계산기.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\비주얼프로\4주차\4주차과제_사칙계산기.sln\4주차과제_사칙계산기\obj\Debug\4주차과제_사칙계산기.exe
+C:\Users\user\Desktop\비주얼프로\4주차\4주차과제_사칙계산기.sln\4주차과제_사칙계산기\obj\Debug\4주차과제_사칙계산기.pdb

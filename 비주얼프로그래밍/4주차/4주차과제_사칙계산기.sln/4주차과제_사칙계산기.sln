@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4주차과제_사칙계산기", "4주차과제_사칙계산기\4주차과제_사칙계산기.csproj", "{372DF578-28E4-426E-91D2-D4B97E05F691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{372DF578-28E4-426E-91D2-D4B97E05F691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{372DF578-28E4-426E-91D2-D4B97E05F691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{372DF578-28E4-426E-91D2-D4B97E05F691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{372DF578-28E4-426E-91D2-D4B97E05F691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E58FF1C3-395A-43F4-B320-648EF7C2B43B}
+	EndGlobalSection
+EndGlobal
