@@ -1,0 +1,10 @@
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F019_TwoChart\F019_TwoChart\bin\Debug\F019_TwoChart.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F019_TwoChart\F019_TwoChart\bin\Debug\F019_TwoChart.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F019_TwoChart\F019_TwoChart\bin\Debug\F019_TwoChart.pdb
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F019_TwoChart\F019_TwoChart\obj\Debug\F019_TwoChart.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F019_TwoChart\F019_TwoChart\obj\Debug\F019_TwoChart.Form1.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F019_TwoChart\F019_TwoChart\obj\Debug\F019_TwoChart.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F019_TwoChart\F019_TwoChart\obj\Debug\F019_TwoChart.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F019_TwoChart\F019_TwoChart\obj\Debug\F019_TwoChart.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F019_TwoChart\F019_TwoChart\obj\Debug\F019_TwoChart.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F019_TwoChart\F019_TwoChart\obj\Debug\F019_TwoChart.pdb

@@ -1,0 +1,10 @@
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\12주차\F017_Omok\F017_Omok\bin\Debug\F017_Omok.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\12주차\F017_Omok\F017_Omok\bin\Debug\F017_Omok.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\12주차\F017_Omok\F017_Omok\bin\Debug\F017_Omok.pdb
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\12주차\F017_Omok\F017_Omok\obj\Debug\F017_Omok.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\12주차\F017_Omok\F017_Omok\obj\Debug\F017_Omok.Form1.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\12주차\F017_Omok\F017_Omok\obj\Debug\F017_Omok.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\12주차\F017_Omok\F017_Omok\obj\Debug\F017_Omok.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\12주차\F017_Omok\F017_Omok\obj\Debug\F017_Omok.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\12주차\F017_Omok\F017_Omok\obj\Debug\F017_Omok.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\12주차\F017_Omok\F017_Omok\obj\Debug\F017_Omok.pdb

@@ -1,0 +1,10 @@
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F018_Chart1\F018_Chart1\bin\Debug\F018_Chart1.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F018_Chart1\F018_Chart1\bin\Debug\F018_Chart1.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F018_Chart1\F018_Chart1\bin\Debug\F018_Chart1.pdb
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F018_Chart1\F018_Chart1\obj\Debug\F018_Chart1.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F018_Chart1\F018_Chart1\obj\Debug\F018_Chart1.Form1.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F018_Chart1\F018_Chart1\obj\Debug\F018_Chart1.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F018_Chart1\F018_Chart1\obj\Debug\F018_Chart1.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F018_Chart1\F018_Chart1\obj\Debug\F018_Chart1.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F018_Chart1\F018_Chart1\obj\Debug\F018_Chart1.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F018_Chart1\F018_Chart1\obj\Debug\F018_Chart1.pdb
