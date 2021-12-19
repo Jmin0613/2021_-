@@ -1,0 +1,15 @@
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a005_sorting\bin\Debug\a005_sorting.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a005_sorting\bin\Debug\a005_sorting.exe
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a005_sorting\bin\Debug\a005_sorting.pdb
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a005_sorting\obj\Debug\a005_sorting.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a005_sorting\obj\Debug\MainWindow.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a005_sorting\obj\Debug\App.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a005_sorting\obj\Debug\a005_sorting_MarkupCompile.cache
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a005_sorting\obj\Debug\a005_sorting_MarkupCompile.lref
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a005_sorting\obj\Debug\MainWindow.baml
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a005_sorting\obj\Debug\a005_sorting.g.resources
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a005_sorting\obj\Debug\a005_sorting.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a005_sorting\obj\Debug\a005_sorting.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a005_sorting\obj\Debug\a005_sorting.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a005_sorting\obj\Debug\a005_sorting.exe
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a005_sorting\obj\Debug\a005_sorting.pdb

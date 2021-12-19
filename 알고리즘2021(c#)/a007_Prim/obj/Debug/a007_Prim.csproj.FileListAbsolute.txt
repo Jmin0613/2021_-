@@ -1,0 +1,7 @@
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a007_Prim\bin\Debug\a007_Prim.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a007_Prim\bin\Debug\a007_Prim.exe
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a007_Prim\bin\Debug\a007_Prim.pdb
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a007_Prim\obj\Debug\a007_Prim.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a007_Prim\obj\Debug\a007_Prim.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a007_Prim\obj\Debug\a007_Prim.exe
+C:\Users\jumin\OneDrive\바탕 화면\알고리즘(c#)\알고리즘2021\a007_Prim\obj\Debug\a007_Prim.pdb

@@ -1,0 +1,21 @@
+﻿<Window x:Class="a006_closestPair.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:a006_closestPair"
+        mc:Ignorable="d"
+        Title="Closest Pair" Height="800" Width="1200">
+    <StackPanel Margin="50"> <!--버튼 만들어야하니간 stackpanel-->
+        <Canvas x:Name="canvas" Width="1100" Height="600" Background="AliceBlue"/>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="200, 20">
+            <Button x:Name="btnRandom" Width="150" Height="40" Click="Button_Click">랜덤 생성</Button>
+            <TextBlock Width="100"/> <!--버튼 사이 띄우기-->
+            <Button x:Name="btnBruteForce" Width="150" Height="40">Brute Force</Button>
+            <TextBlock Width="100"/>
+            <Button x:Name="btnDivideConquer" Width="150" Height="40" Click="btnDivideConquer_Click">분할정복</Button>
+        </StackPanel>
+
+    </StackPanel>
+</Window>
