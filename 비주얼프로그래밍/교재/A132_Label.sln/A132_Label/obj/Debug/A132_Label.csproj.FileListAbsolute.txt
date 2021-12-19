@@ -1,0 +1,9 @@
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A132_Label.sln\A132_Label\bin\Debug\A132_Label.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A132_Label.sln\A132_Label\bin\Debug\A132_Label.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A132_Label.sln\A132_Label\bin\Debug\A132_Label.pdb
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A132_Label.sln\A132_Label\obj\Debug\A132_Label.Form1.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A132_Label.sln\A132_Label\obj\Debug\A132_Label.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A132_Label.sln\A132_Label\obj\Debug\A132_Label.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A132_Label.sln\A132_Label\obj\Debug\A132_Label.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A132_Label.sln\A132_Label\obj\Debug\A132_Label.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A132_Label.sln\A132_Label\obj\Debug\A132_Label.pdb

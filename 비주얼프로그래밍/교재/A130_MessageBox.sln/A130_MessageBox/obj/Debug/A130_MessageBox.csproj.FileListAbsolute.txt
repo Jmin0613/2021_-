@@ -1,0 +1,10 @@
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A130_MessageBox.sln\A130_MessageBox\obj\Debug\A130_MessageBox.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A130_MessageBox.sln\A130_MessageBox\obj\Debug\A130_MessageBox.Form1.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A130_MessageBox.sln\A130_MessageBox\obj\Debug\A130_MessageBox.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A130_MessageBox.sln\A130_MessageBox\obj\Debug\A130_MessageBox.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A130_MessageBox.sln\A130_MessageBox\obj\Debug\A130_MessageBox.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A130_MessageBox.sln\A130_MessageBox\bin\Debug\A130_MessageBox.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A130_MessageBox.sln\A130_MessageBox\bin\Debug\A130_MessageBox.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A130_MessageBox.sln\A130_MessageBox\bin\Debug\A130_MessageBox.pdb
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A130_MessageBox.sln\A130_MessageBox\obj\Debug\A130_MessageBox.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\교재\활용\A130_MessageBox.sln\A130_MessageBox\obj\Debug\A130_MessageBox.pdb
