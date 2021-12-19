@@ -1,0 +1,6 @@
+﻿  좆같네.c
+C:\Users\jumin\source\repos\5명 3과목 평균 하.sln\5명 3과목 평균 하\좆같네.c(29,28): warning C4047: '>=': 'int [3]'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\jumin\source\repos\5명 3과목 평균 하.sln\5명 3과목 평균 하\좆같네.c(32,27): warning C4047: '<': 'int [3]'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\jumin\source\repos\5명 3과목 평균 하.sln\5명 3과목 평균 하\좆같네.c(49): warning C4716: 'ave_personal': 값을 반환해야 합니다.
+C:\Users\jumin\source\repos\5명 3과목 평균 하.sln\5명 3과목 평균 하\좆같네.c(66): warning C4716: 'ave_compare': 값을 반환해야 합니다.
+  5명 3과목 평균 하.vcxproj -> C:\Users\jumin\source\repos\5명 3과목 평균 하.sln\Debug\5명 3과목 평균 하.exe
