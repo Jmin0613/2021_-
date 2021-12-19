@@ -1,0 +1,15 @@
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W011_Language\W011_Language\bin\Debug\W011_Language.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W011_Language\W011_Language\bin\Debug\W011_Language.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W011_Language\W011_Language\bin\Debug\W011_Language.pdb
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W011_Language\W011_Language\obj\Debug\W011_Language.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W011_Language\W011_Language\obj\Debug\MainWindow.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W011_Language\W011_Language\obj\Debug\App.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W011_Language\W011_Language\obj\Debug\W011_Language_MarkupCompile.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W011_Language\W011_Language\obj\Debug\W011_Language_MarkupCompile.lref
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W011_Language\W011_Language\obj\Debug\MainWindow.baml
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W011_Language\W011_Language\obj\Debug\W011_Language.g.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W011_Language\W011_Language\obj\Debug\W011_Language.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W011_Language\W011_Language\obj\Debug\W011_Language.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W011_Language\W011_Language\obj\Debug\W011_Language.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W011_Language\W011_Language\obj\Debug\W011_Language.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W011_Language\W011_Language\obj\Debug\W011_Language.pdb
