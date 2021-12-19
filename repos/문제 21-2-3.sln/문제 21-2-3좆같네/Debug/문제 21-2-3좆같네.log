@@ -1,0 +1,4 @@
+﻿  아 개같아.c
+C:\Users\jumin\source\repos\문제 21-2-3.sln\문제 21-2-3좆같네\아 개같아.c(7,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jumin\source\repos\문제 21-2-3.sln\문제 21-2-3좆같네\아 개같아.c(38,13): warning C4013: 'atoi'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  문제 21-2-3좆같네.vcxproj -> C:\Users\jumin\source\repos\문제 21-2-3.sln\Debug\문제 21-2-3좆같네.exe

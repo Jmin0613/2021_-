@@ -1,0 +1,21 @@
+﻿  도서관리프로그램.c
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(60,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(60,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(60,10): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(60,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(63,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(63,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(63,10): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(63,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(66,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(66,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(66,10): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(66,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(88,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(88,10): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(88,10): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(88,10): message : 이 인수는 버퍼 크기로 사용됩니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(113,44): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char'과(와) 다릅니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(113,44): warning C4024: 'compare': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+C:\Users\jumin\source\repos\도서관리프로그램.sln\도서관리프로그램\도서관리프로그램.c(144,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  도서관리프로그램.vcxproj -> C:\Users\jumin\source\repos\도서관리프로그램.sln\Debug\도서관리프로그램.exe
