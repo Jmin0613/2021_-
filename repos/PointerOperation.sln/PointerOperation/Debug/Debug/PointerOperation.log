@@ -1,0 +1,3 @@
+﻿  PointerOperation.c
+C:\Users\jumin\source\repos\PointerOperation.sln\PointerOperation\PointerOperation.c(32,8): error C2231: '.ypos': 왼쪽 피연산자가 'struct'을(를) 가리킵니다. '->'를 사용하십시오.
+C:\Users\jumin\source\repos\PointerOperation.sln\PointerOperation\PointerOperation.c(32,2): error C2100: 간접 참조가 잘못되었습니다.
