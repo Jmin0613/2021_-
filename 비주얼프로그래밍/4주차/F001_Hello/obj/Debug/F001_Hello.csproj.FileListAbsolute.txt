@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F001_Hello\bin\Debug\F001_Hello.exe.config
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F001_Hello\bin\Debug\F001_Hello.exe
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F001_Hello\bin\Debug\F001_Hello.pdb
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F001_Hello\obj\Debug\F001_Hello.csprojAssemblyReference.cache
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F001_Hello\obj\Debug\F001_Hello.Form1.resources
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F001_Hello\obj\Debug\F001_Hello.Properties.Resources.resources
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F001_Hello\obj\Debug\F001_Hello.csproj.GenerateResource.cache
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F001_Hello\obj\Debug\F001_Hello.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F001_Hello\obj\Debug\F001_Hello.exe
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F001_Hello\obj\Debug\F001_Hello.pdb

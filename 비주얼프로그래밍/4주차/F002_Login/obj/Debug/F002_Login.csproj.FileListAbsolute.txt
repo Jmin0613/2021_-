@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F002_Login\bin\Debug\F002_Login.exe.config
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F002_Login\bin\Debug\F002_Login.exe
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F002_Login\bin\Debug\F002_Login.pdb
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F002_Login\obj\Debug\F002_Login.csprojAssemblyReference.cache
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F002_Login\obj\Debug\F002_Login.Form1.resources
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F002_Login\obj\Debug\F002_Login.Properties.Resources.resources
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F002_Login\obj\Debug\F002_Login.csproj.GenerateResource.cache
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F002_Login\obj\Debug\F002_Login.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F002_Login\obj\Debug\F002_Login.exe
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F002_Login\obj\Debug\F002_Login.pdb

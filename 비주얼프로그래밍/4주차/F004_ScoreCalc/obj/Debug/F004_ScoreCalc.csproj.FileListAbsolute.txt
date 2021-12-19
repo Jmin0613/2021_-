@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F004_ScoreCalc\bin\Debug\F004_ScoreCalc.exe.config
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F004_ScoreCalc\bin\Debug\F004_ScoreCalc.exe
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F004_ScoreCalc\bin\Debug\F004_ScoreCalc.pdb
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F004_ScoreCalc\obj\Debug\F004_ScoreCalc.csprojAssemblyReference.cache
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F004_ScoreCalc\obj\Debug\F004_ScoreCalc.Form1.resources
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F004_ScoreCalc\obj\Debug\F004_ScoreCalc.Properties.Resources.resources
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F004_ScoreCalc\obj\Debug\F004_ScoreCalc.csproj.GenerateResource.cache
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F004_ScoreCalc\obj\Debug\F004_ScoreCalc.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F004_ScoreCalc\obj\Debug\F004_ScoreCalc.exe
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\F004_ScoreCalc\obj\Debug\F004_ScoreCalc.pdb

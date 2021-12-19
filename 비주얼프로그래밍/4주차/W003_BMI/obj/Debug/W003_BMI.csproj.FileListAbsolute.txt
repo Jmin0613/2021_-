@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\W003_BMI\bin\Debug\W003_BMI.exe.config
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\W003_BMI\bin\Debug\W003_BMI.exe
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\W003_BMI\bin\Debug\W003_BMI.pdb
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\W003_BMI\obj\Debug\W003_BMI.csprojAssemblyReference.cache
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\W003_BMI\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\W003_BMI\obj\Debug\App.g.cs
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\W003_BMI\obj\Debug\W003_BMI_MarkupCompile.cache
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\W003_BMI\obj\Debug\W003_BMI_MarkupCompile.lref
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\W003_BMI\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\W003_BMI\obj\Debug\W003_BMI.g.resources
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\W003_BMI\obj\Debug\W003_BMI.Properties.Resources.resources
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\W003_BMI\obj\Debug\W003_BMI.csproj.GenerateResource.cache
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\W003_BMI\obj\Debug\W003_BMI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\W003_BMI\obj\Debug\W003_BMI.exe
+C:\Users\user\Desktop\비주얼프로\4주차\VP2021\W003_BMI\obj\Debug\W003_BMI.pdb
