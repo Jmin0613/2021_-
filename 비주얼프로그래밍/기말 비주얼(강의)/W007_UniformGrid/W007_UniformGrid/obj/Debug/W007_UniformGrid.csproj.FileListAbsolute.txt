@@ -1,0 +1,15 @@
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W007_UniformGrid\W007_UniformGrid\bin\Debug\W007_UniformGrid.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W007_UniformGrid\W007_UniformGrid\bin\Debug\W007_UniformGrid.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W007_UniformGrid\W007_UniformGrid\bin\Debug\W007_UniformGrid.pdb
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W007_UniformGrid\W007_UniformGrid\obj\Debug\W007_UniformGrid.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W007_UniformGrid\W007_UniformGrid\obj\Debug\MainWindow.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W007_UniformGrid\W007_UniformGrid\obj\Debug\App.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W007_UniformGrid\W007_UniformGrid\obj\Debug\W007_UniformGrid_MarkupCompile.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W007_UniformGrid\W007_UniformGrid\obj\Debug\W007_UniformGrid_MarkupCompile.lref
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W007_UniformGrid\W007_UniformGrid\obj\Debug\MainWindow.baml
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W007_UniformGrid\W007_UniformGrid\obj\Debug\W007_UniformGrid.g.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W007_UniformGrid\W007_UniformGrid\obj\Debug\W007_UniformGrid.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W007_UniformGrid\W007_UniformGrid\obj\Debug\W007_UniformGrid.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W007_UniformGrid\W007_UniformGrid\obj\Debug\W007_UniformGrid.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W007_UniformGrid\W007_UniformGrid\obj\Debug\W007_UniformGrid.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W007_UniformGrid\W007_UniformGrid\obj\Debug\W007_UniformGrid.pdb

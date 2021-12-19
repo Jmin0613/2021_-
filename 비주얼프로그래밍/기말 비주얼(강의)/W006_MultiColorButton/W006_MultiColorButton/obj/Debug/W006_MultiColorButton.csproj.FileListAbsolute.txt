@@ -1,0 +1,15 @@
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W006_MultiColorButton\W006_MultiColorButton\bin\Debug\W006_MultiColorButton.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W006_MultiColorButton\W006_MultiColorButton\bin\Debug\W006_MultiColorButton.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W006_MultiColorButton\W006_MultiColorButton\bin\Debug\W006_MultiColorButton.pdb
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W006_MultiColorButton\W006_MultiColorButton\obj\Debug\W006_MultiColorButton.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W006_MultiColorButton\W006_MultiColorButton\obj\Debug\MainWindow.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W006_MultiColorButton\W006_MultiColorButton\obj\Debug\App.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W006_MultiColorButton\W006_MultiColorButton\obj\Debug\W006_MultiColorButton_MarkupCompile.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W006_MultiColorButton\W006_MultiColorButton\obj\Debug\W006_MultiColorButton_MarkupCompile.lref
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W006_MultiColorButton\W006_MultiColorButton\obj\Debug\MainWindow.baml
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W006_MultiColorButton\W006_MultiColorButton\obj\Debug\W006_MultiColorButton.g.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W006_MultiColorButton\W006_MultiColorButton\obj\Debug\W006_MultiColorButton.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W006_MultiColorButton\W006_MultiColorButton\obj\Debug\W006_MultiColorButton.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W006_MultiColorButton\W006_MultiColorButton\obj\Debug\W006_MultiColorButton.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W006_MultiColorButton\W006_MultiColorButton\obj\Debug\W006_MultiColorButton.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W006_MultiColorButton\W006_MultiColorButton\obj\Debug\W006_MultiColorButton.pdb

@@ -1,0 +1,15 @@
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W005_UserControl\W005_UserControl\bin\Debug\W005_UserControl.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W005_UserControl\W005_UserControl\bin\Debug\W005_UserControl.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W005_UserControl\W005_UserControl\bin\Debug\W005_UserControl.pdb
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W005_UserControl\W005_UserControl\obj\Debug\W005_UserControl.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W005_UserControl\W005_UserControl\obj\Debug\MainWindow.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W005_UserControl\W005_UserControl\obj\Debug\App.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W005_UserControl\W005_UserControl\obj\Debug\W005_UserControl_MarkupCompile.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W005_UserControl\W005_UserControl\obj\Debug\W005_UserControl_MarkupCompile.lref
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W005_UserControl\W005_UserControl\obj\Debug\MainWindow.baml
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W005_UserControl\W005_UserControl\obj\Debug\W005_UserControl.g.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W005_UserControl\W005_UserControl\obj\Debug\W005_UserControl.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W005_UserControl\W005_UserControl\obj\Debug\W005_UserControl.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W005_UserControl\W005_UserControl\obj\Debug\W005_UserControl.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W005_UserControl\W005_UserControl\obj\Debug\W005_UserControl.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W005_UserControl\W005_UserControl\obj\Debug\W005_UserControl.pdb
