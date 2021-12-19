@@ -1,0 +1,15 @@
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W001_HelloWorld\W001_HelloWorld\bin\Debug\W001_HelloWorld.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W001_HelloWorld\W001_HelloWorld\bin\Debug\W001_HelloWorld.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W001_HelloWorld\W001_HelloWorld\bin\Debug\W001_HelloWorld.pdb
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W001_HelloWorld\W001_HelloWorld\obj\Debug\W001_HelloWorld.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W001_HelloWorld\W001_HelloWorld\obj\Debug\MainWindow.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W001_HelloWorld\W001_HelloWorld\obj\Debug\App.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W001_HelloWorld\W001_HelloWorld\obj\Debug\W001_HelloWorld_MarkupCompile.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W001_HelloWorld\W001_HelloWorld\obj\Debug\W001_HelloWorld_MarkupCompile.lref
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W001_HelloWorld\W001_HelloWorld\obj\Debug\MainWindow.baml
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W001_HelloWorld\W001_HelloWorld\obj\Debug\W001_HelloWorld.g.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W001_HelloWorld\W001_HelloWorld\obj\Debug\W001_HelloWorld.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W001_HelloWorld\W001_HelloWorld\obj\Debug\W001_HelloWorld.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W001_HelloWorld\W001_HelloWorld\obj\Debug\W001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W001_HelloWorld\W001_HelloWorld\obj\Debug\W001_HelloWorld.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\6주차\W001_HelloWorld\W001_HelloWorld\obj\Debug\W001_HelloWorld.pdb
