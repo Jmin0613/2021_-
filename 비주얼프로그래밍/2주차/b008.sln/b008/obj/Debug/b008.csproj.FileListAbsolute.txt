@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\가마우지\b008.sln\b008\bin\Debug\b008.exe.config
+C:\Users\user\Desktop\가마우지\b008.sln\b008\bin\Debug\b008.exe
+C:\Users\user\Desktop\가마우지\b008.sln\b008\bin\Debug\b008.pdb
+C:\Users\user\Desktop\가마우지\b008.sln\b008\obj\Debug\b008.csprojAssemblyReference.cache
+C:\Users\user\Desktop\가마우지\b008.sln\b008\obj\Debug\b008.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\가마우지\b008.sln\b008\obj\Debug\b008.exe
+C:\Users\user\Desktop\가마우지\b008.sln\b008\obj\Debug\b008.pdb

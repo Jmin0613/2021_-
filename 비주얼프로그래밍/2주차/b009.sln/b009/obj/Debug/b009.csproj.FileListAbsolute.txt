@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\가마우지\b009.sln\b009\bin\Debug\b009.exe.config
+C:\Users\user\Desktop\가마우지\b009.sln\b009\bin\Debug\b009.exe
+C:\Users\user\Desktop\가마우지\b009.sln\b009\bin\Debug\b009.pdb
+C:\Users\user\Desktop\가마우지\b009.sln\b009\obj\Debug\b009.csprojAssemblyReference.cache
+C:\Users\user\Desktop\가마우지\b009.sln\b009\obj\Debug\b009.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\가마우지\b009.sln\b009\obj\Debug\b009.exe
+C:\Users\user\Desktop\가마우지\b009.sln\b009\obj\Debug\b009.pdb

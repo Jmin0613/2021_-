@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\가마우지\b006.sln\b006\bin\Debug\b006.exe.config
+C:\Users\user\Desktop\가마우지\b006.sln\b006\bin\Debug\b006.exe
+C:\Users\user\Desktop\가마우지\b006.sln\b006\bin\Debug\b006.pdb
+C:\Users\user\Desktop\가마우지\b006.sln\b006\obj\Debug\b006.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\가마우지\b006.sln\b006\obj\Debug\b006.exe
+C:\Users\user\Desktop\가마우지\b006.sln\b006\obj\Debug\b006.pdb
