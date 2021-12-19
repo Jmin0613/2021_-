@@ -1,0 +1,5 @@
+C:\Users\jumin\OneDrive\바탕 화면\(비주얼 기말) 교재\A143_GradeCalc\A143_GradeCalc\obj\Debug\A143_GradeCalc.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\(비주얼 기말) 교재\A143_GradeCalc\A143_GradeCalc\obj\Debug\A143_GradeCalc.Form1.resources
+C:\Users\jumin\OneDrive\바탕 화면\(비주얼 기말) 교재\A143_GradeCalc\A143_GradeCalc\obj\Debug\A143_GradeCalc.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\(비주얼 기말) 교재\A143_GradeCalc\A143_GradeCalc\obj\Debug\A143_GradeCalc.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\(비주얼 기말) 교재\A143_GradeCalc\A143_GradeCalc\obj\Debug\A143_GradeCalc.csproj.CoreCompileInputs.cache
