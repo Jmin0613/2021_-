@@ -1,0 +1,9 @@
+﻿  두 점 사이의 거리.c
+C:\Users\jumin\OneDrive\바탕 화면\c언어\동빈나 구조체.sln\동빈나 구조체\두 점 사이의 거리.c(23,17): warning C4013: 'sqrt'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\jumin\OneDrive\바탕 화면\c언어\동빈나 구조체.sln\동빈나 구조체\두 점 사이의 거리.c(15,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jumin\OneDrive\바탕 화면\c언어\동빈나 구조체.sln\동빈나 구조체\두 점 사이의 거리.c(18,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  학생 구조체 활용.c
+C:\Users\jumin\OneDrive\바탕 화면\c언어\동빈나 구조체.sln\동빈나 구조체\학생 구조체 활용.c(14,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jumin\OneDrive\바탕 화면\c언어\동빈나 구조체.sln\동빈나 구조체\학생 구조체 활용.c(16,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\jumin\OneDrive\바탕 화면\c언어\동빈나 구조체.sln\동빈나 구조체\학생 구조체 활용.c(18,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
