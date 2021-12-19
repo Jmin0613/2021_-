@@ -1,0 +1,15 @@
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W009_Calculator\W009_Calculator\bin\Debug\W009_Calculator.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W009_Calculator\W009_Calculator\bin\Debug\W009_Calculator.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W009_Calculator\W009_Calculator\bin\Debug\W009_Calculator.pdb
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W009_Calculator\W009_Calculator\obj\Debug\W009_Calculator.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W009_Calculator\W009_Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W009_Calculator\W009_Calculator\obj\Debug\App.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W009_Calculator\W009_Calculator\obj\Debug\W009_Calculator_MarkupCompile.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W009_Calculator\W009_Calculator\obj\Debug\W009_Calculator_MarkupCompile.lref
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W009_Calculator\W009_Calculator\obj\Debug\MainWindow.baml
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W009_Calculator\W009_Calculator\obj\Debug\W009_Calculator.g.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W009_Calculator\W009_Calculator\obj\Debug\W009_Calculator.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W009_Calculator\W009_Calculator\obj\Debug\W009_Calculator.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W009_Calculator\W009_Calculator\obj\Debug\W009_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W009_Calculator\W009_Calculator\obj\Debug\W009_Calculator.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W009_Calculator\W009_Calculator\obj\Debug\W009_Calculator.pdb
