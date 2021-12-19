@@ -1,0 +1,32 @@
+<final 클래스>
+클래스 이름앞에 final 붙이면, 클래스 상속 불가능
+
+final class FinalClass{ //이름앞에 final 선언
+	//.....
+}
+
+class SubClass extends FinalClass{ //컴파일오류, 상속 불가능
+	//.....
+}
+
+<final메소드>
+final로 메소드 선언하면, 오버라이딩 불가능
+
+public class SuperClass{
+	protected final int finalMethod(){....} //finalMethod()는 자식이 오버라이딩 불가
+}
+
+class SubClass extends SuperClass(){
+	protected int finalMethod(){....} //컴파일오류. finalMethod 오버라이딩 불가능
+}
+
+<final 필드>
+final로 필드를 선언하면 상수가 됨
+
+public class FinalFieldClass{
+	final int ROWS=10;
+	void f(){
+		int[] intArray = new int[ROWS]; //상수 활용
+			ROWS=30; //컴파일 오류
+	}
+}

@@ -1,0 +1,33 @@
+<상속> 개념
+
+상속 : 자식클래스는 부모 클래스에 만들어진 필드와 메소드를 만들지 않고도 만든것과 같은 효과를 얻음
+
+상속은 클래스 사이의 상속이지,
+객체 사이의 상속이 아니다.
+--> 자식 객체는 자식 클래스와 부모클래스에 만들어진 모든 멤버를 가지고 생성된다.
+
+
+
+<상속 선언>
+상속해주는 부모 클래스 -> 슈퍼클래스 super class
+상속받는 자식 클래스 -> 서브클래스 sub class
+ex)
+public class Person{
+	........
+}
+
+public class Student extends Person{
+	//Person을 상속받는 클래스 Student선언
+	........
+}
+
+public class StudentWorker extends Student{
+	//Student를 상속받는 클래스 StudentWorker선언
+	.........
+}
+
+(super class : Person) -> (sub class : Student)
+(super class : Student) -> (sub class : StudentWorker)
+
+extends로 상속을 선언해준다
+->자식클래스 extends 부모클래스
