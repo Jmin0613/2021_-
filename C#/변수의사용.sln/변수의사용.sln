@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "변수의사용", "변수의사용\변수의사용.csproj", "{DBC3EFB9-6C0C-4686-9001-366281FDEA77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBC3EFB9-6C0C-4686-9001-366281FDEA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC3EFB9-6C0C-4686-9001-366281FDEA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC3EFB9-6C0C-4686-9001-366281FDEA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC3EFB9-6C0C-4686-9001-366281FDEA77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20F33337-BFE9-424F-9B67-6E4734F881E9}
+	EndGlobalSection
+EndGlobal

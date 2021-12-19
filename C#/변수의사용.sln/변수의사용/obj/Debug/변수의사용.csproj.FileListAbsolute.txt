@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\변수의사용.sln\변수의사용\bin\Debug\변수의사용.exe.config
+C:\Users\user\Desktop\C#\변수의사용.sln\변수의사용\bin\Debug\변수의사용.exe
+C:\Users\user\Desktop\C#\변수의사용.sln\변수의사용\bin\Debug\변수의사용.pdb
+C:\Users\user\Desktop\C#\변수의사용.sln\변수의사용\obj\Debug\변수의사용.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#\변수의사용.sln\변수의사용\obj\Debug\변수의사용.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\변수의사용.sln\변수의사용\obj\Debug\변수의사용.exe
+C:\Users\user\Desktop\C#\변수의사용.sln\변수의사용\obj\Debug\변수의사용.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\변수예제.sln\변수예제\bin\Debug\변수예제.exe.config
+C:\Users\user\Desktop\C#\변수예제.sln\변수예제\bin\Debug\변수예제.exe
+C:\Users\user\Desktop\C#\변수예제.sln\변수예제\bin\Debug\변수예제.pdb
+C:\Users\user\Desktop\C#\변수예제.sln\변수예제\obj\Debug\변수예제.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#\변수예제.sln\변수예제\obj\Debug\변수예제.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\변수예제.sln\변수예제\obj\Debug\변수예제.exe
+C:\Users\user\Desktop\C#\변수예제.sln\변수예제\obj\Debug\변수예제.pdb

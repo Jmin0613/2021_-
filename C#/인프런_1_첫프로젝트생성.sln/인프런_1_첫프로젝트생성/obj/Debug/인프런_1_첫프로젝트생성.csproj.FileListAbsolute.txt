@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\인프런_1_첫프로젝트생성.sln\인프런_1_첫프로젝트생성\bin\Debug\인프런_1_첫프로젝트생성.exe.config
+C:\Users\user\Desktop\C#\인프런_1_첫프로젝트생성.sln\인프런_1_첫프로젝트생성\bin\Debug\인프런_1_첫프로젝트생성.exe
+C:\Users\user\Desktop\C#\인프런_1_첫프로젝트생성.sln\인프런_1_첫프로젝트생성\bin\Debug\인프런_1_첫프로젝트생성.pdb
+C:\Users\user\Desktop\C#\인프런_1_첫프로젝트생성.sln\인프런_1_첫프로젝트생성\obj\Debug\인프런_1_첫프로젝트생성.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#\인프런_1_첫프로젝트생성.sln\인프런_1_첫프로젝트생성\obj\Debug\인프런_1_첫프로젝트생성.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\인프런_1_첫프로젝트생성.sln\인프런_1_첫프로젝트생성\obj\Debug\인프런_1_첫프로젝트생성.exe
+C:\Users\user\Desktop\C#\인프런_1_첫프로젝트생성.sln\인프런_1_첫프로젝트생성\obj\Debug\인프런_1_첫프로젝트생성.pdb
