@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C#\교재\a004.sln\a004\bin\Debug\a004.exe.config
+C:\Users\user\Desktop\C#\교재\a004.sln\a004\bin\Debug\a004.exe
+C:\Users\user\Desktop\C#\교재\a004.sln\a004\bin\Debug\a004.pdb
+C:\Users\user\Desktop\C#\교재\a004.sln\a004\obj\Debug\a004.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\교재\a004.sln\a004\obj\Debug\a004.exe
+C:\Users\user\Desktop\C#\교재\a004.sln\a004\obj\Debug\a004.pdb

@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C#\class_car.sln\class_car\bin\Debug\class_car.exe.config
+C:\Users\user\Desktop\C#\class_car.sln\class_car\bin\Debug\class_car.exe
+C:\Users\user\Desktop\C#\class_car.sln\class_car\bin\Debug\class_car.pdb
+C:\Users\user\Desktop\C#\class_car.sln\class_car\obj\Debug\class_car.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\class_car.sln\class_car\obj\Debug\class_car.exe
+C:\Users\user\Desktop\C#\class_car.sln\class_car\obj\Debug\class_car.pdb

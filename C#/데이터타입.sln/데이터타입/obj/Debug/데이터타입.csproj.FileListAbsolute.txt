@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C#\데이터타입.sln\데이터타입\bin\Debug\데이터타입.exe.config
+C:\Users\user\Desktop\C#\데이터타입.sln\데이터타입\bin\Debug\데이터타입.exe
+C:\Users\user\Desktop\C#\데이터타입.sln\데이터타입\bin\Debug\데이터타입.pdb
+C:\Users\user\Desktop\C#\데이터타입.sln\데이터타입\obj\Debug\데이터타입.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\데이터타입.sln\데이터타입\obj\Debug\데이터타입.exe
+C:\Users\user\Desktop\C#\데이터타입.sln\데이터타입\obj\Debug\데이터타입.pdb
