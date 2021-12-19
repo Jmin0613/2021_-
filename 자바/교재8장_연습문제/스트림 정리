@@ -1,0 +1,7 @@
+** 문자스트림(문자만 가능)
+파일 읽기 : FileReader, (in)InputStreamReader, (fin)FileInputStream
+파일 쓰기 : FileWriter
+
+** 바이트 스트림(뭐든지 가능)
+파일 읽기 : FileInputStream
+파일 쓰기 : FileOutputStream
