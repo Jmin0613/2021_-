@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F019_TwoChart", "F019_TwoChart\F019_TwoChart.csproj", "{016D63A8-1887-4787-9299-4762A11D650D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016D63A8-1887-4787-9299-4762A11D650D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016D63A8-1887-4787-9299-4762A11D650D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016D63A8-1887-4787-9299-4762A11D650D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016D63A8-1887-4787-9299-4762A11D650D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3397CBAC-1A20-46F2-B70C-505931266196}
+	EndGlobalSection
+EndGlobal

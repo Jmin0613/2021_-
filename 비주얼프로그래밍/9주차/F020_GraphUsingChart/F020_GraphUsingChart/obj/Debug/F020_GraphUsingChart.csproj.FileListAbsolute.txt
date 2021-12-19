@@ -1,0 +1,10 @@
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F020_GraphUsingChart\F020_GraphUsingChart\bin\Debug\F020_GraphUsingChart.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F020_GraphUsingChart\F020_GraphUsingChart\bin\Debug\F020_GraphUsingChart.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F020_GraphUsingChart\F020_GraphUsingChart\bin\Debug\F020_GraphUsingChart.pdb
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F020_GraphUsingChart\F020_GraphUsingChart\obj\Debug\F020_GraphUsingChart.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F020_GraphUsingChart\F020_GraphUsingChart\obj\Debug\F020_GraphUsingChart.Form1.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F020_GraphUsingChart\F020_GraphUsingChart\obj\Debug\F020_GraphUsingChart.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F020_GraphUsingChart\F020_GraphUsingChart\obj\Debug\F020_GraphUsingChart.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F020_GraphUsingChart\F020_GraphUsingChart\obj\Debug\F020_GraphUsingChart.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F020_GraphUsingChart\F020_GraphUsingChart\obj\Debug\F020_GraphUsingChart.exe
+C:\Users\jumin\OneDrive\바탕 화면\비주얼프로그래밍\9주차\F020_GraphUsingChart\F020_GraphUsingChart\obj\Debug\F020_GraphUsingChart.pdb
