@@ -1,0 +1,4 @@
+C:\Users\jumin\OneDrive\바탕 화면\c#\알고리즘2021\a004_hanoi\obj\Debug\netcoreapp3.1\a004_hanoi.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\c#\알고리즘2021\a004_hanoi\obj\Debug\netcoreapp3.1\a004_hanoi.AssemblyInfoInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\c#\알고리즘2021\a004_hanoi\obj\Debug\netcoreapp3.1\a004_hanoi.AssemblyInfo.cs
+C:\Users\jumin\OneDrive\바탕 화면\c#\알고리즘2021\a004_hanoi\obj\Debug\netcoreapp3.1\a004_hanoi.csproj.CoreCompileInputs.cache
