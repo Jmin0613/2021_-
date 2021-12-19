@@ -1,0 +1,15 @@
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_Login\W003_Login\bin\Debug\W003_Login.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_Login\W003_Login\bin\Debug\W003_Login.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_Login\W003_Login\bin\Debug\W003_Login.pdb
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_Login\W003_Login\obj\Debug\W003_Login.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_Login\W003_Login\obj\Debug\MainWindow.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_Login\W003_Login\obj\Debug\App.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_Login\W003_Login\obj\Debug\W003_Login_MarkupCompile.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_Login\W003_Login\obj\Debug\W003_Login_MarkupCompile.lref
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_Login\W003_Login\obj\Debug\MainWindow.baml
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_Login\W003_Login\obj\Debug\W003_Login.g.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_Login\W003_Login\obj\Debug\W003_Login.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_Login\W003_Login\obj\Debug\W003_Login.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_Login\W003_Login\obj\Debug\W003_Login.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_Login\W003_Login\obj\Debug\W003_Login.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_Login\W003_Login\obj\Debug\W003_Login.pdb

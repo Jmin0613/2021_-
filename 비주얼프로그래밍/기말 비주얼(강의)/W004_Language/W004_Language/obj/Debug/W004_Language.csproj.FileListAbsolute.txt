@@ -1,0 +1,14 @@
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W004_Language\W004_Language\bin\Debug\W004_Language.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W004_Language\W004_Language\bin\Debug\W004_Language.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W004_Language\W004_Language\bin\Debug\W004_Language.pdb
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W004_Language\W004_Language\obj\Debug\MainWindow.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W004_Language\W004_Language\obj\Debug\App.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W004_Language\W004_Language\obj\Debug\W004_Language_MarkupCompile.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W004_Language\W004_Language\obj\Debug\W004_Language_MarkupCompile.lref
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W004_Language\W004_Language\obj\Debug\MainWindow.baml
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W004_Language\W004_Language\obj\Debug\W004_Language.g.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W004_Language\W004_Language\obj\Debug\W004_Language.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W004_Language\W004_Language\obj\Debug\W004_Language.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W004_Language\W004_Language\obj\Debug\W004_Language.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W004_Language\W004_Language\obj\Debug\W004_Language.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W004_Language\W004_Language\obj\Debug\W004_Language.pdb

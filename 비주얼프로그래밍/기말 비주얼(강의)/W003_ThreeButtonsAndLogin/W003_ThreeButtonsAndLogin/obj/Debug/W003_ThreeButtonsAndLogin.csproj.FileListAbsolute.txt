@@ -1,0 +1,15 @@
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_ThreeButtonsAndLogin\W003_ThreeButtonsAndLogin\bin\Debug\W003_ThreeButtonsAndLogin.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_ThreeButtonsAndLogin\W003_ThreeButtonsAndLogin\bin\Debug\W003_ThreeButtonsAndLogin.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_ThreeButtonsAndLogin\W003_ThreeButtonsAndLogin\bin\Debug\W003_ThreeButtonsAndLogin.pdb
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_ThreeButtonsAndLogin\W003_ThreeButtonsAndLogin\obj\Debug\W003_ThreeButtonsAndLogin.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_ThreeButtonsAndLogin\W003_ThreeButtonsAndLogin\obj\Debug\MainWindow.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_ThreeButtonsAndLogin\W003_ThreeButtonsAndLogin\obj\Debug\App.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_ThreeButtonsAndLogin\W003_ThreeButtonsAndLogin\obj\Debug\W003_ThreeButtonsAndLogin_MarkupCompile.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_ThreeButtonsAndLogin\W003_ThreeButtonsAndLogin\obj\Debug\W003_ThreeButtonsAndLogin_MarkupCompile.lref
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_ThreeButtonsAndLogin\W003_ThreeButtonsAndLogin\obj\Debug\MainWindow.baml
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_ThreeButtonsAndLogin\W003_ThreeButtonsAndLogin\obj\Debug\W003_ThreeButtonsAndLogin.g.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_ThreeButtonsAndLogin\W003_ThreeButtonsAndLogin\obj\Debug\W003_ThreeButtonsAndLogin.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_ThreeButtonsAndLogin\W003_ThreeButtonsAndLogin\obj\Debug\W003_ThreeButtonsAndLogin.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_ThreeButtonsAndLogin\W003_ThreeButtonsAndLogin\obj\Debug\W003_ThreeButtonsAndLogin.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_ThreeButtonsAndLogin\W003_ThreeButtonsAndLogin\obj\Debug\W003_ThreeButtonsAndLogin.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W003_ThreeButtonsAndLogin\W003_ThreeButtonsAndLogin\obj\Debug\W003_ThreeButtonsAndLogin.pdb
