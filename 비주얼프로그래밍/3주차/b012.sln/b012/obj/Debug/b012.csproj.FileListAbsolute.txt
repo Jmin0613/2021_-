@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\3주차\b012.sln\b012\bin\Debug\b012.exe.config
+C:\Users\user\Desktop\3주차\b012.sln\b012\bin\Debug\b012.exe
+C:\Users\user\Desktop\3주차\b012.sln\b012\bin\Debug\b012.pdb
+C:\Users\user\Desktop\3주차\b012.sln\b012\obj\Debug\b012.csprojAssemblyReference.cache
+C:\Users\user\Desktop\3주차\b012.sln\b012\obj\Debug\b012.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\3주차\b012.sln\b012\obj\Debug\b012.exe
+C:\Users\user\Desktop\3주차\b012.sln\b012\obj\Debug\b012.pdb

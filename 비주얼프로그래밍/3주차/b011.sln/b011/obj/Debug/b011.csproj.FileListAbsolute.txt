@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\교재\b011.sln\b011\bin\Debug\b011.exe.config
+C:\Users\user\Desktop\C#\교재\b011.sln\b011\bin\Debug\b011.exe
+C:\Users\user\Desktop\C#\교재\b011.sln\b011\bin\Debug\b011.pdb
+C:\Users\user\Desktop\C#\교재\b011.sln\b011\obj\Debug\b011.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#\교재\b011.sln\b011\obj\Debug\b011.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\교재\b011.sln\b011\obj\Debug\b011.exe
+C:\Users\user\Desktop\C#\교재\b011.sln\b011\obj\Debug\b011.pdb

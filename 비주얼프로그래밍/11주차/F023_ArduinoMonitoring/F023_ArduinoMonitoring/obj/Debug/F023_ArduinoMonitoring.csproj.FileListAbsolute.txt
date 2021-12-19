@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\11주차\F023_ArduinoMonitoring\F023_ArduinoMonitoring\bin\Debug\F023_ArduinoMonitoring.exe.config
+C:\Users\user\Desktop\11주차\F023_ArduinoMonitoring\F023_ArduinoMonitoring\bin\Debug\F023_ArduinoMonitoring.exe
+C:\Users\user\Desktop\11주차\F023_ArduinoMonitoring\F023_ArduinoMonitoring\bin\Debug\F023_ArduinoMonitoring.pdb
+C:\Users\user\Desktop\11주차\F023_ArduinoMonitoring\F023_ArduinoMonitoring\obj\Debug\F023_ArduinoMonitoring.csprojAssemblyReference.cache
+C:\Users\user\Desktop\11주차\F023_ArduinoMonitoring\F023_ArduinoMonitoring\obj\Debug\F023_ArduinoMonitoring.Form1.resources
+C:\Users\user\Desktop\11주차\F023_ArduinoMonitoring\F023_ArduinoMonitoring\obj\Debug\F023_ArduinoMonitoring.Properties.Resources.resources
+C:\Users\user\Desktop\11주차\F023_ArduinoMonitoring\F023_ArduinoMonitoring\obj\Debug\F023_ArduinoMonitoring.csproj.GenerateResource.cache
+C:\Users\user\Desktop\11주차\F023_ArduinoMonitoring\F023_ArduinoMonitoring\obj\Debug\F023_ArduinoMonitoring.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\11주차\F023_ArduinoMonitoring\F023_ArduinoMonitoring\obj\Debug\F023_ArduinoMonitoring.exe
+C:\Users\user\Desktop\11주차\F023_ArduinoMonitoring\F023_ArduinoMonitoring\obj\Debug\F023_ArduinoMonitoring.pdb
