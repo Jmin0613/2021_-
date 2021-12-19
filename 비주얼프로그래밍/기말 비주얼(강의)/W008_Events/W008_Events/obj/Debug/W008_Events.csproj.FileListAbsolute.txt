@@ -1,0 +1,15 @@
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W008_Events\W008_Events\bin\Debug\W008_Events.exe.config
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W008_Events\W008_Events\bin\Debug\W008_Events.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W008_Events\W008_Events\bin\Debug\W008_Events.pdb
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W008_Events\W008_Events\obj\Debug\W008_Events.csprojAssemblyReference.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W008_Events\W008_Events\obj\Debug\MainWindow.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W008_Events\W008_Events\obj\Debug\App.g.cs
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W008_Events\W008_Events\obj\Debug\W008_Events_MarkupCompile.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W008_Events\W008_Events\obj\Debug\W008_Events_MarkupCompile.lref
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W008_Events\W008_Events\obj\Debug\MainWindow.baml
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W008_Events\W008_Events\obj\Debug\W008_Events.g.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W008_Events\W008_Events\obj\Debug\W008_Events.Properties.Resources.resources
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W008_Events\W008_Events\obj\Debug\W008_Events.csproj.GenerateResource.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W008_Events\W008_Events\obj\Debug\W008_Events.csproj.CoreCompileInputs.cache
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W008_Events\W008_Events\obj\Debug\W008_Events.exe
+C:\Users\jumin\OneDrive\바탕 화면\기말 비주얼(강의)\W008_Events\W008_Events\obj\Debug\W008_Events.pdb
